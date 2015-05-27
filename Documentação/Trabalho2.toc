@@ -9,9 +9,8 @@
 \contentsline {subsection}{\numberline {1.3.2}A resposta ao impulso e a representa\IeC {\c c}\IeC {\~a}o da Soma de Convolu\IeC {\c c}\IeC {\~a}o dos Sistemas LIT(Lineares e Invariantes no Tempo)}{4}
 \contentsline {chapter}{\numberline {2}Desenvolvimento}{5}
 \contentsline {section}{\numberline {2.1}Passando a ideia da solu\IeC {\c c}\IeC {\~a}o com pseudoc\IeC {\'o}digo}{5}
-\contentsline {section}{\numberline {2.2}Explicando o algoritmo passo a passo}{5}
-\contentsline {section}{\numberline {2.3}A escolha dos casos teste}{5}
-\contentsline {chapter}{\numberline {3}Resultados}{6}
-\contentsline {section}{\numberline {3.1}Resultados obtidos pelo Matlab}{6}
-\contentsline {section}{\numberline {3.2}Gr\IeC {\'a}ficos gerados pelo algoritmo}{6}
-\contentsline {chapter}{\numberline {4}Conclus\IeC {\~a}o}{8}
+\contentsline {section}{\numberline {2.2}Explicando o algoritmo passo a passo}{6}
+\contentsline {section}{\numberline {2.3}A escolha dos casos teste}{7}
+\contentsline {chapter}{\numberline {3}Resultados}{8}
+\contentsline {section}{\numberline {3.1}Gr\IeC {\'a}ficos gerados pelo algoritmo}{8}
+\contentsline {chapter}{\numberline {4}Conclus\IeC {\~a}o}{12}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=latex 2015.3.30)  26 MAY 2015 18:51
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=latex 2015.3.30)  27 MAY 2015 15:15
 entering extended mode
 **Trabalho2.tex
 ("C:\Users\Luana\Documents\Estudos\Faculdade\Sinais e Sistemas\Trabalhos\2\Documentação\Trabalho2.tex"
@@ -541,14 +541,11 @@ Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
 \verbatim@line=\toks26
 \verbatim@in@stream=\read1
 )
-("C:\Users\Luana\Documents\Estudos\Faculdade\Sinais e Sistemas\Trabalhos\2\Documentação\Trabalho2.aux"
-
-LaTeX Warning: Label `' multiply defined.
-
-)
+("C:\Users\Luana\Documents\Estudos\Faculdade\Sinais e Sistemas\Trabalhos\2\Documentação\Trabalho2.aux")
 LaTeX Font Info:    Checking defaults for OML/pxmi/m/it on input line 17.
 LaTeX Font Info:    Try loading font information for OML+pxmi on input line 17.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\pxfonts\omlpxmi.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pxfonts\omlpxmi.fd"
 File: omlpxmi.fd 2000/12/14 v1.0
 )
 LaTeX Font Info:    ... okay on input line 17.
@@ -570,8 +567,7 @@ File: omxpxex.fd 2000/12/14 v1.0
 LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Checking defaults for U/pxexa/m/n on input line 17.
 LaTeX Font Info:    Try loading font information for U+pxexa on input line 17.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\pxfonts\upxexa.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\pxfonts\upxexa.fd"
 File: upxexa.fd 2000/12/14 v1.0
 )
 LaTeX Font Info:    ... okay on input line 17.
@@ -581,10 +577,10 @@ File: ot1pxr.fd 2000/12/14 v1.0
 )
 \c@lstlisting=\count114
 File: unimontes.eps Graphic file (type eps)
-
-<unimontes.eps>
+ <unimontes.eps>
 LaTeX Font Info:    Try loading font information for OT1+pxss on input line 25.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\pxfonts\ot1pxss.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pxfonts\ot1pxss.fd"
 File: ot1pxss.fd 2000/12/14 v1.0
 )
 LaTeX Font Info:    Font shape `OT1/pxss/bx/n' in size <12> not available
@@ -640,41 +636,98 @@ File: omspxr.fd 2000/12/14 v1.0
 LaTeX Font Info:    Font shape `OMS/pxr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/pxsy/m/n' tried instead on input line 65.
 
-Overfull \hbox (16.65254pt too wide) in paragraph at lines 78--78
-[]\OT1/pxr/bx/n/12 A res-posta ao im-pulso e a representa[][]ao da Soma de Convolu[][]ao
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+
  []
 
 [3
 
-] [4]
+]
+File: sinal_figura.eps Graphic file (type eps)
+ <sinal_figura.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 82--89
+
+ []
+
+
+Overfull \hbox (16.65254pt too wide) in paragraph at lines 94--94
+[]\OT1/pxr/bx/n/12 A res-posta ao im-pulso e a representa[][]ao da Soma de Convolu[][]ao
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+[4]
 Cap\'{\i }tulo 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--104
+Underfull \hbox (badness 10000) in paragraph at lines 104--115
 
- []
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
-File: lstlang1.sty 2014/09/06 1.5e listings language file
-)
-Overfull \hbox (96.00464pt too wide) in paragraph at lines 114--115
-[][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (30.00397pt too wide) in paragraph at lines 115--116
-[][][][][][][][][][][][][][][][][][][][] 
- []
-
-LaTeX Font Info:    Font shape `OMS/pxr/m/n' in size <10> not available
-(Font)              Font shape `OMS/pxsy/m/n' tried instead on input line 119.
-
-Overfull \hbox (36.00403pt too wide) in paragraph at lines 120--121
-[][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 [5
 
-]
+] ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2014/09/06 1.5e listings language file
+)
+Overfull \hbox (96.00464pt too wide) in paragraph at lines 128--129
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (30.00397pt too wide) in paragraph at lines 129--130
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+LaTeX Font Info:    Font shape `OMS/pxr/m/n' in size <10> not available
+(Font)              Font shape `OMS/pxsy/m/n' tried instead on input line 133.
+
+Overfull \hbox (36.00403pt too wide) in paragraph at lines 134--135
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 142--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--175
+
+ []
+
+[7]
 Cap\'{\i }tulo 3.
 File: Teste1.eps Graphic file (type eps)
 <Teste1.eps>
@@ -688,49 +741,39 @@ File: Teste5.eps Graphic file (type eps)
  <Teste5.eps>
 File: Teste6.eps Graphic file (type eps)
  <Teste6.eps>
-Overfull \hbox (230.70123pt too wide) in paragraph at lines 136--143
-[] []
- []
+Underfull \hbox (badness 10000) in paragraph at lines 178--185
 
-
-Overfull \hbox (230.70123pt too wide) in paragraph at lines 136--143
-[] []
- []
-
-
-Overfull \hbox (230.70123pt too wide) in paragraph at lines 136--143
-[] [] 
- []
-
-[6
-
-] [7]
-Cap\'{\i }tulo 4.
-
-Overfull \hbox (25.65617pt too wide) in paragraph at lines 144--146
-\OT1/pxr/m/n/10 De acordo com os re-sul-ta-dos apre-sen-ta-dos du-rante o de-sen-vol-vi-mento da documenta[][]ao,
  []
 
 [8
 
+] [9] [10] [11]
+Cap\'{\i }tulo 4.
+
+Overfull \hbox (25.65617pt too wide) in paragraph at lines 186--188
+\OT1/pxr/m/n/10 De acordo com os re-sul-ta-dos apre-sen-ta-dos du-rante o de-sen-vol-vi-mento da documenta[][]ao,
+ []
+
+[12
+
 ]
-LaTeX Font Info:    Try loading font information for OT1+pxtt on input line 149.
+LaTeX Font Info:    Try loading font information for OT1+pxtt on input line 191.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\pxfonts\ot1pxtt.fd"
 File: ot1pxtt.fd 2000/12/14 v1.0
 )
-Underfull \hbox (badness 7796) in paragraph at lines 150--151
+Underfull \hbox (badness 7796) in paragraph at lines 192--193
 []\OT1/pxr/m/n/10 Matplotlib Re-fe-rence. Dis-pon[]vel em: $\OML/pxmi/m/it/10 <$$\OT1/pxtt/m/n/10 http : / / matplotlib
  . org /
  []
 
 
-Underfull \hbox (badness 4713) in paragraph at lines 153--154
+Underfull \hbox (badness 4713) in paragraph at lines 196--197
 []\OT1/pxr/m/n/10 Vetores e ma-tri-zes com numpy. Dis-pon[]vel em: $\OML/pxmi/m/it/10 <$$\OT1/pxtt/m/n/10 http : / / ww
 w .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--154
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
 \OT1/pxtt/m/n/10 pbx-[]brasil . com / Pesquisa / Ferramentas / ProgramandoPython / aula112 /
  []
 
@@ -738,45 +781,41 @@ Missing character: There is no � in font txtt!
 Missing character: There is no � in font txtt!
 Missing character: There is no � in font txtt!
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--158
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
 []\OT1/pxr/m/n/10 Convolu[][]ao.Dispon[]vel em: $\OML/pxmi/m/it/10 <$$\OT1/pxtt/m/n/10 http : / / pt . wikipedia . org 
 / wiki /
  []
 
 
-Underfull \hbox (badness 3250) in paragraph at lines 159--160
+Underfull \hbox (badness 3250) in paragraph at lines 202--203
 []\OT1/pxr/m/n/10 Wikibooks-L[]T[]X. Dis-pon[]vel em: $\OML/pxmi/m/it/10 <$$\OT1/pxtt/m/n/10 http : / / en . wikibooks 
 . org / wiki /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--162
+Underfull \hbox (badness 10000) in paragraph at lines 203--205
 []\OT1/pxr/m/n/10 BRITO, Ra-fael.The al-go-rithms bun-dle, 2009. Dis-pon[]vel em:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--162
+Underfull \hbox (badness 10000) in paragraph at lines 203--205
 \OML/pxmi/m/it/10 <$$\OT1/pxtt/m/n/10 http : / / repositorios . cpai . unb . br / ctan / macros / latex / contrib /
  []
 
-[9
+[13
 
-] ("C:\Users\Luana\Documents\Estudos\Faculdade\Sinais e Sistemas\Trabalhos\2\Documentação\Trabalho2.aux")
-
-LaTeX Warning: There were multiply-defined labels.
-
- )
+] ("C:\Users\Luana\Documents\Estudos\Faculdade\Sinais e Sistemas\Trabalhos\2\Documentação\Trabalho2.aux") )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 21 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 6216 strings out of 493922
- 80229 string characters out of 3147305
- 174409 words of memory out of 3000000
- 9401 multiletter control sequences out of 15000+200000
+ 6224 strings out of 493922
+ 80340 string characters out of 3147305
+ 174570 words of memory out of 3000000
+ 9408 multiletter control sequences out of 15000+200000
  39590 words of font info for 129 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,5n,42p,306b,1327s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,12n,42p,765b,1337s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Trabalho2.dvi (9 pages, 17160 bytes).
+Output written on Trabalho2.dvi (13 pages, 24224 bytes).
